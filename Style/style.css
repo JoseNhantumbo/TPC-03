@@ -2,11 +2,9 @@
 	margin-left: auto;
 	margin-right: auto;
 }
-
 #main{
 	width: 900px;
 }
-
 #head{
 	width: 900px;
 }
@@ -27,11 +25,74 @@
 #blank-div{
 	width: 900px;
 	height: 10px;
-	background: black;
+	background: grey;
 	
 }
 #body{
 	padding-top: 20px;
+	background: url("body.jpg");
+}
+#table_1{
+	margin-left: 40px;
+}
+
+#range-3{
+	padding-top:5px;
+	width: 100px;
+	height: 10px;
+	float: right;
+	margin-right: 70px;
+}
+#textInput-3{
+	margin-left: 10px;
+	width: 20px;
+	height: 10px;
+	
+}
+
+.details{
+	padding-left: 30px;
+}
+.preview{
+	margin-top: 15px;
 	height: 200px;
-	background: red;
+	width: 340px;
+	background: blue;
+	margin-left: 10px;
+}
+.slide{
+	width: 120px;
+	height: 230px;
+	float: right;
+	margin-right: 10px;
+}
+.preview-1{
+	height: 76px;
+	width: 120px;
+}
+.preview-2{
+	height: 76px;
+	width: 120px;
+}
+.preview-3{
+	height: 76px;
+	width: 120px;
+}
+.preview-image{
+	height: 100%;
+	width: 100%;
+}
+.preview-1-image{
+	height: 100%;
+	width: 100%;
+}
+.preview-2-image{
+	padding-top:5px;
+	height: 100%;
+	width: 100%;
+}
+.preview-3-image{
+	padding-top:10px;
+	height: 100%;
+	width: 100%;
 }
